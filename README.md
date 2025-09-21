@@ -11,4 +11,6 @@ python3 -c "import PySide6, psutil; print('All modules imported successfully')"
 
 chmod +x install_system_task_manager_fixed.sh
 
-sudo ./install_system_task_manager_fixed.sh```
+sudo ./install_system_task_manager_fixed.sh
+
+(Uninstall) sudo ./install_system_task_manager.sh --uninstall ```
